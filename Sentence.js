@@ -2,9 +2,8 @@ import React from 'react'
 
 export default function Sentence(props) {
     const x =10;
-    const y = 7;
     function change(){ 
-        alert('change value is ' + y)
+        alert(' The Square Of This Number Is :  ' + (x*x))
     }
   return (
     <div>
