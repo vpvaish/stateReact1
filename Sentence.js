@@ -11,7 +11,7 @@ export default function Sentence(props) {
         Hello Your Value is : {x}
       </h1>
       <button onMouseOver={change} >
-      change is done 
+      The Square Of Given Number Is : 
       </button>    
     </div>
   )
